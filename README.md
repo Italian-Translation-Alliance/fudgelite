@@ -194,7 +194,7 @@ Per un avanzamento del personaggio più lento, aumenta i costi.
 ### Creazione soggettiva del personaggio:
 Annota tutto ciò che è importante sul tuo personaggio, classificando tutti i tratti che possono essere classificati nella Scala Fudge.
 
-### Creazione rapida del personaggio (oltre i limiti):
+### Creazione rapida del personaggio (Over The Edge):
 I personaggi ottengono un tratto generale (classe, occupazione, ecc.) e due tratti più specifici (abilità specifiche). Ognuno dei tre tratti può essere Ottimo, mentre gli altri due sono Buoni. Qualsiasi capacità soprannaturale deve essere il tratto generale. Il GM può anche richiedere che ogni PG abbia un difetto.
 
 ### Creazione rapida del personaggio (Wushu):
