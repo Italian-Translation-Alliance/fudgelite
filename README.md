@@ -255,15 +255,15 @@ I PG iniziano il gioco con 1-5 Gettoni Fudge. Spendere un Gettone Fudge vi conse
 
 \*Questa opzione richiede l'approvazione del GM e può costare più di un Gettone Fudge.
 
-Se si utilizzano Gettoni Fudge (GP), il GM dovrà rispondere alle seguenti domande:
+Se si utilizzano Gettoni Fudge (GF), il GM dovrà rispondere alle seguenti domande:
 
-* I giocatori riceveranno GP all'inizio di ogni sessione?  
+* I giocatori riceveranno GF all'inizio di ogni sessione?  
 * In caso affermativo, sarà fino a un massimo o verrà assegnato un importo fisso?  
-* I giocatori possono guadagnare GP nel gioco? Se é cosi, come?   
+* I giocatori possono guadagnare GF nel gioco? Se é cosi, come?   
 
 Sia i PE che i Gettoni Fudge possono essere usati come ricompensa per incoraggiare comportamenti specifici da parte dei PG. I Gettoni Fudge dovrebbero essere assegnati quando il GM vuole dare ai giocatori bonus fuori dal personaggio una tantum, mentre PE dovrebbero essere assegnati quando il GM vuole rappresentare un miglioramento del personaggio a lungo termine nel personaggio.
 
-Basta non far scegliere al giocatore tra PE e GP. Non funziona mai bene.
+Basta non far scegliere al giocatore tra PE e GF. Non funziona mai bene.
 
 Nota che i Gettoni Fudge possono essere usati anche per bilanciare archetipi di personaggi sbilanciati. Un personaggio iniziale più forte con più doni e abilità ad alti livelli dovrebbe iniziare ed essere in grado di ottenere meno Gettoni Fudge di un personaggio più debole con poche buone abilità.
 
