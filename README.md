@@ -1,6 +1,7 @@
 # Fudge Lite 
 Versione 1.5.1  
-http://www.fudgelite.com
+http://www.fudgelite.com  
+Traduzione di Roberto Bisceglie
 
 ### Scala Fudge: 
 * Superbo
@@ -618,5 +619,3 @@ The following text is the property of Wizards of the Coast, Inc. and is Copyrigh
 Open Game License v 1.0 Copyright 2000, Wizards of the Coast, Inc.
 Fudge 10th Anniversary Edition Copyright 2005, Grey Ghost Press, Inc.; Authors Steffan O'Sullivan and Ann Dupuis, with additional material by Jonathan Benn, Peter Bonney, Deird'Re Brooks, Reimer Behrends, Don Bisdorf, Carl Cravens, Shawn Garbett, Steven Hammond, Ed Heil, Bernard Hsiung, J.M. "Thijs" Krijger, Sedge Lewis, Shawn Lockard, Gordon McCormick, Kent Matthewson, Peter Mikelsons, Robb Neumann, Anthony Roberson, Andy Skinner, William Stoddard, Stephan Szabo, John Ughrin, Alex Weldon, Duke York, Dmitri Zagidulin
 Fudge Lite Copyright 2022; Author Brendan Jones, with a contribution from Daneel
-
-Traduzione di Roberto Bisceglie
