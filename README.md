@@ -592,7 +592,7 @@ Chiave del Mago Buono: usa la magia per aiutare direttamente un altro.
 Chiave del Mago Neutrale: Scopri qualcosa su un mistero magico.  
 Chiave del Mago Malvagio: usa la magia per causare terrore e paura.
 
-# Licenza
+## Licenza
 Tutto questo documento, ad eccezione dell'Appendice B, è definito come Open Game Content.
 L'Appendice B sezione "Chiavi di The Shadow of Yesterday" è rilasciato sotto CC BY-SA 2.0
 L'Appendice B sezione "Chiavi di Lady Blackbird" è rilasciato sotto BY-NC-SA 3.0 US
