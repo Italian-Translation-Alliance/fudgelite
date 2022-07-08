@@ -13,7 +13,7 @@ Traduzione di Roberto Bisceglie
 * Terribile
 
 ### Definizioni:
-Dado Fudge (o dado Fate): un dado a 6 facce con due lati "+", due lati "-" e due lati vuoti. 4dF significa che vengono lanciati 4 dadi Fudge per un risultato da -4 a +4.  
+Dado Fudge (o dado Fate): un dado a 6 facce con due lati "+", due lati "-" e due lati vuoti. 4dF significa che vengono tirati 4 dadi Fudge per un risultato da -4 a +4.  
 Tratto: qualsiasi cosa che descriva un personaggio.  
 Tratto Classificato: qualsiasi tratto che si inserisce nella Scala Fudge (di solito chiamato attributo o abilità).  
 Tratto Non Classificato: qualsiasi tratto che non rientra nella Scala Fudge (doni, difetti, retroscena, descrizione del personaggio).  
@@ -66,12 +66,12 @@ Nessun tratto dovrebbe essere ovviamente più o meno utile di qualsiasi altro tr
 
 Si raccomanda che il GM divida i tratti Magico e Psionico in categorie più piccole per adattarsi al sistema metafisico usato dall'ambientazione.
 
-Una volta determinata la lista dei tratti, il GM decide quanti tratti sono consentiti ad ogni livello. Tutti i tratti non assegnati hanno Scarso come valore di default.
+Una volta determinata la lista dei tratti, il GM decide quanti tratti sono consentiti ad ogni livello. Tutti i tratti non assegnati hanno valore di predefinito Scarso.
 
 Alcuni esempi di distribuzione dei tratti: 
 
 1 Superbo, 2 Ottimo, 3 Buono, 4 Discreto, ecc.  
-Questa distribuzione è meglio per giochi con molti tratti, o per giochi dove il GM vuole che i PG abbiano molti tratti buoni.  
+Questa distribuzione è meglio per giochi con molti tratti, o per giochi dove il GM vuole che i PG abbiano molti tratti Buoni.  
 Totale tratti Discreto o migliore: 10. Tratti totali superiori a Scarso: 15
 
 1 Superbo, 2 Ottimo, 2 Buono, 2 Discreto, ecc.  
@@ -98,17 +98,17 @@ Regola alternativa:
 Tutti i PG hanno la stessa quantità di PF, determinata dal GM. 4 PF sarebbe un buon punto di partenza, con meno PF per giochi più pericolosi, cupi, ad alta letalità, e più PF per giochi in cui i PG hanno una certa quantità di immunità di trama.
 
 ### Prove sui tratti:  
-Iniziate con un tratto classificato. Tirate 4dF e sposta il tratto in alto o in basso nella Scala Fudge del numero di passi indicato. Confrontate il risultato con il livello di difficoltà deciso dal GM (se non in opposizione) o con il tratto classificato dell'avversario più o meno un modificatore opzionale deciso dal GM (se in opposizione).  Un pareggio o un risultato migliore significa che il tiro ha successo.
+Iniziate con un tratto classificato. Tirate 4dF e spostate il tratto in alto o in basso nella Scala Fudge del numero di passi indicato. Confrontate il risultato con il livello di difficoltà deciso dal GM (se non in opposizione) o con il tratto classificato dell'avversario più o meno un modificatore opzionale deciso dal GM (se in opposizione).  Un pareggio o un risultato migliore significa che il tiro ha successo.
 
-Quando si tira per un tratto non addestrato o non definito: qualsiasi tratto in cui tutti dovrebbero avere una certa abilità (ad esempio combattere, arrampicarsi, matematica di base) ha di default un valore Discreto, mentre qualsiasi tratto che richiede conoscenze specialistiche e/o addestramento (ad esempio fisica delle particelle, pilotare un elicottero) ha di default un valore Scarso.
+Quando si tira per un tratto non addestrato o non definito: qualsiasi tratto in cui tutti dovrebbero avere una certa abilità (ad esempio combattere, arrampicarsi, matematica di base) ha un valore predefinito Discreto, mentre qualsiasi tratto che richiede conoscenze specialistiche e/o addestramento (ad esempio fisica delle particelle, pilotare un elicottero) ha un valore predefinito Scarso.
 
-Se non possedete dadi Fudge potete invece tirare 4d6.  Considerate un tiro di dado di 1 o 2 come un meno, 3 o 4 come uno zero, e 5 o 6 come un più.  Quindi, un lancio di 1, 1, 2, 5 sarebbe equivalente a [-][-][-][+], che si somma a -2.
+Se non possedete dadi Fudge potete invece tirare 4d6. Considerate un tiro di dado di 1 o 2 come un meno, 3 o 4 come uno zero, e 5 o 6 come un più.  Quindi, un tiro di 1, 1, 2, 5 sarebbe equivalente a [-][-][-][+], che si somma a -2.
 
 ### Bonus e penalità:
-A volte un giocatore avrà bonus e/o penalità che potrebbero influenzare il suo tiro. +1 è un buon bonus, +2 è un bonus molto buono, e +3 è un bonus molto raro ed elevato. Gli stessi modificatori si applicano anche alle penalità.  Solo il singolo bonus più grande e la singola penalità più grande si applicano a qualsiasi tiro.
+A volte un giocatore avrà bonus e/o penalità che potrebbero influenzare il suo tiro. +1 è un buon bonus, +2 è un bonus molto buono, e +3 è un bonus molto raro ed elevato. Gli stessi modificatori si applicano anche alle penalità. Solo il singolo bonus più grande e la singola penalità più grande si applicano a qualsiasi tiro.
 
 Regola opzionale:  
-Se il GM vuole applicare un bonus o una penalità inferiore a un livello, può usare dadi di vantaggio o di svantaggio. Questi dadi sono colorati in modo diverso e sostituiscono i normali dadi Fudge quando vengono lanciati. Il giocatore può ignorare qualsiasi risultato negativo su un dado vantaggio e deve ignorare qualsiasi risultato positivo su un dado svantaggio. I due tipi di dado si annullano a vicenda, quindi un giocatore non tirerà mai un dado vantaggio e uno svantaggio nello stesso lancio. 
+Se il GM vuole applicare un bonus o una penalità inferiore a un livello, può usare dadi di vantaggio o di svantaggio. Questi dadi sono colorati in modo diverso e sostituiscono i normali dadi Fudge quando vengono lanciati. Il giocatore può ignorare qualsiasi risultato negativo su un dado vantaggio e deve ignorare qualsiasi risultato positivo su un dado svantaggio. I due tipi di dado si annullano a vicenda, quindi un giocatore non tirerà mai un dado vantaggio e uno svantaggio nello stesso tiro. 
 
 Un dado vantaggio vale circa 1/3 di un grado Fudge. Ecco alcune linee guida approssimative per i GM:
 
@@ -121,7 +121,7 @@ Un dado vantaggio vale circa 1/3 di un grado Fudge. Ecco alcune linee guida appr
 Le stesse linee guida si applicano alle penalità.
 
 ### Combattimento:
-Il GM descrive una minaccia e chiede ai giocatori: "Cosa fate?" Un tiro del giocatore fallito o un giocatore che ignora una minaccia in arrivo significa che il GM può infliggere danni o causare ulteriori problemi al PG. Non c'è iniziativa; il GM sposta i riflettori tra i diversi giocatori secondo necessità.
+Il GM descrive una minaccia e chiede ai giocatori: "Cosa fate?" Un tiro del giocatore fallito o un giocatore che ignora una minaccia in arrivo significa che il GM può infliggere danni o causare ulteriori problemi al PG. Non c'è iniziativa; il GM sposta il fuoco dell'azione tra i diversi giocatori a seconda della necessità.
 
 Un attacco riuscito riduce di uno i punti ferita del difensore. Un tiro\* non modificato di +3 o +4 conta come un colpo critico e infligge un punto di danno aggiuntivo. Gli attacchi che prendono di mira la debolezza di un avversario possono anche infliggere danni extra a discrezione del GM.
 
@@ -166,9 +166,9 @@ Desiderio, Miracolo
 Regola facoltativa:  
 Aumenta la difficoltà se l'incantesimo lanciato soddisfa più di un criterio di un incantesimo di quel livello.  
 
-Cose brutte accadono con un tiro fallito. Quali siano esattamente dipende dalla difficoltà del tiro e da quanto gravemente il tiro è stato fallito. Alcuni suggerimenti (con qualche ispirazione da Dungeon World e dall'hacking di Dungeon World Wizard World):  
+Eventi nefasti accadono con un tiro fallito. Quali siano esattamente dipende dalla difficoltà del tiro e da quanto gravemente sia stato fallito il tiro. Alcuni suggerimenti (con qualche ispirazione da Dungeon World e dall'hacking di Dungeon World Wizard World):  
 
-* Il meglio che l'incantatore può ottenere è una versione ridotta e limitata dell'incantesimo.
+* Tutto ciò che l'incantatore può ottenere è una versione ridotta e limitata dell'incantesimo.
 * L'incantesimo ha un effetto collaterale inaspettato.
 * L'incantatore attira attenzioni indesiderate o si mette in una situazione difficile.
 * L'incantesimo richiede la concentrazione continuativa dell'incantatore. L'incantatore subisce una penalità continuativa di 1 punto al lancio di incantesimi fintanto che l'incantesimo è attivo.
@@ -207,15 +207,15 @@ I giocatori non devono decidere le proprie caratteristiche prima dell'inizio del
 Superbo:  
 [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 Ottimo:  
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_]  
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 Buono:  
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ _]  
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 Discreto:  
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ _] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 Mediocre:  
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ _] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_\_]  
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 Scarso:  
-[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ _] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\ _\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\ _\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\ _\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\ _\_\_]  
+[\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 
 ## Regole alternative per l'avanzamento del personaggio:
 
@@ -242,7 +242,7 @@ I giocatori guadagnano 1 PE ogni volta che il loro personaggio supera una prova 
 
 ## Regole opzionali:
 
-Tutto in questa sezione (da qui a poco prima della sezione Game Master) è completamente opzionale e dovrebbe essere aggiunto al vostro gioco solo se il miglioramento dell'esperienza valesse il prezzo della complessità così aggiunta.
+Tutto in questa sezione (da qui a poco prima della sezione Game Master) è completamente opzionale e dovrebbe essere aggiunta al vostro gioco solo se il miglioramento dell'esperienza valesse il prezzo della complessità così aggiunta.
 
 ### Gettoni Fudge:
 I PG iniziano il gioco con 1-5 Gettoni Fudge. Spendere un Gettone Fudge vi consente di effettuare una delle seguenti operazioni:  
@@ -265,7 +265,7 @@ Sia i PE che i Gettoni Fudge possono essere usati come ricompensa per incoraggia
 
 Basta non far scegliere al giocatore tra PE e GF. Non funziona mai bene.
 
-Nota che i Gettoni Fudge possono essere usati anche per bilanciare archetipi di personaggi sbilanciati. Un personaggio iniziale più forte con più doni e abilità ad alti livelli dovrebbe iniziare ed essere in grado di ottenere meno Gettoni Fudge di un personaggio più debole con poche buone abilità.
+Notare che i Gettoni Fudge possono essere usati anche per bilanciare archetipi di personaggi sbilanciati. Un personaggio iniziale più forte con più doni e abilità ad alti livelli dovrebbe iniziare ed essere in grado di ottenere meno Gettoni Fudge di un personaggio più debole con poche buone abilità.
 
 ### Penalità per ferite / Tracciamento ferite semplificate:
 Ogni volta che un personaggio ha subito abbastanza danni, subisce una penalità a tutti i tiri rilevanti. Un personaggio ridotto a 2 PF avrà una penalità di -1 e un personaggio ridotto a 1 PF avrà una penalità di -2. Un personaggio in piena salute non subisce mai penalità per le ferite, anche se la sua piena salute è solo di 1 o 2 PF. Un personaggio con punti ferita superbi (6 PF) potrebbe registrare le proprie ferite in questo modo:  
@@ -371,7 +371,7 @@ Comportamento: lascia che la tua rabbia e il tuo odio fluiscano attraverso di te
 
 #### Scagnozzo (guardie, assaltatori, servitori, cultisti, ecc.)  
 Valutazione della minaccia: Mediocre  
-Comportamento: Infastidisci gli eroi, muori in massa.  
+Comportamento: Infastidisci gli eroi, muore in massa.  
 
 ### Esempio di combattimento
 
