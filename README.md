@@ -1,9 +1,9 @@
 # Fudge Lite 
-Versione 1.5.1  
-http://www.fudgelite.com  
+Versione 2.6.2  
+[http://www.fudgelite.com](http://www.fudgelite.com)  
 Traduzione di Roberto Bisceglie
 
-### Scala Fudge: 
+## Scala Fudge: 
 * Superbo
 * Ottimo
 * Buono
@@ -12,20 +12,12 @@ Traduzione di Roberto Bisceglie
 * Scarso
 * Terribile
 
-### Definizioni:
-Dado Fudge (o dado Fate): un dado a 6 facce con due lati "+", due lati "-" e due lati vuoti. 4dF significa che vengono tirati 4 dadi Fudge per un risultato da -4 a +4.  
-Tratto: qualsiasi cosa che descriva un personaggio.  
-Tratto Classificato: qualsiasi tratto che si inserisce nella Scala Fudge (di solito chiamato attributo o abilità).  
-Tratto Non Classificato: qualsiasi tratto che non rientra nella Scala Fudge (doni, difetti, retroscena, descrizione del personaggio).  
-Abilità soprannaturali: magia, psionica, superpoteri, ecc.  
+## Creazione del personaggio:
 
-### Creazione del personaggio:
+Il GM fornisce ai giocatori un elenco di tratti a cui assegnare i gradi della Scala Fudge. Un possibile set di tratti è incluso di seguito, ma presuppone che il gioco sia incentrato sul combattimento e sull'attività fisica. Il GM è incoraggiato a modificare l'elenco per adattarlo meglio al proprio gioco, o anche a creare un proprio elenco di tratti da far utilizzare ai giocatori. (Si veda l'Appendice A per elenchi alternativi di tratti).
 
-Il GM inizia con un set di tratti di base e modifica la lista in modo appropriato per l'ambientazione.
-
-#### Tratti base:
+### Tratti base:
 Atletica   
-Punti ferita  
 Combattimento in mischia  
 Persuasione  
 Consapevolezza fisica  
@@ -34,7 +26,7 @@ Consapevolezza sociale
 Furtività  
 Scaltrezza  
 
-#### Tratti aggiuntivi per le ambientazioni fantasy medievali:  
+### Tratti aggiuntivi per le ambientazioni fantasy medievali:  
 Conoscenze culturali (storia, religione, costumi, ecc.)  
 Esplorazione di dungeon (conoscenza degli ambienti dei dungeon)  
 Lingue*  
@@ -44,23 +36,21 @@ Resistenza alla magia
 Natura (conoscenza di piante e animali, foraggiamento, maneggiare animali, navigazione e inseguimento)  
 Ladrocinio (disattivare trappole, aprire serrature, scassinare tasche e destrezza di mano)   
 
-#### Tratti aggiuntivi per ambientazioni fantascientifiche:  
+### Tratti aggiuntivi per ambientazioni fantascientifiche:  
 Conoscenze galattiche (costumi planetari, storia, xenobiologia, ecc.)  
-Hackeraggio  
-Lingue  
-Psionica  
+Hackeraggio**  
+Lingue*  
+Psionica*  
 Conoscenza psionica  
 Resistenza psionica  
-Riparazione  
-Uso dell'astronave (Pilotaggio, Artiglieria, Astrogazione)  
+Riparazioni**  
+Uso di astronavi (Pilotaggio, Artiglieria, Astrogazione)  
 
-#### Tratto aggiuntivo per le ambientazioni pulp (molte scene di inseguimento, pilotaggio di aerei, e/o funzionamento di treni/navi):  
+### Tratto aggiuntivo per le ambientazioni pulp (molte scene di inseguimento, pilotaggio di aerei, e/o funzionamento di treni/navi):  
 Veicoli (conoscenza, guida/pilotaggio, riparazione, funzionamento)  
 
 \*Opzionale  
 \*\*A seconda dell'ambientazione, il GM potrebbe voler combinare Hackeraggio e Riparazione in un'unica abilità: Tecnologia.  
-
-Il GM è incoraggiato ad aggiungere e rimuovere tratti come ritiene appropriato per l'ambientazione. Per esempio, quando gestivo un gioco di mostri tascabili ho iniziato con i tratti base, ho aggiunto Tecnologia (una combinazione di Computer e Meccanica) e Natura, e ho combinato Combattimento in Mischia e Combattimento a Distanza in un semplice "Combattimento".  
 
 Nessun tratto dovrebbe essere ovviamente più o meno utile di qualsiasi altro tratto. Se il tratto è troppo specifico, o l'ambientazione non rappresenta naturalmente una sfida per quel tratto, dovreste modificarlo perché sia maggiormente applicabile o semplicemente rimuoverlo.  Al contrario, se il tratto è fin troppo utile dovreste dividerlo in più tratti.  Per esempio, nelle mie partite mi sono trovato a chiedere troppo spesso dei tiri di Percezione, così l'ho diviso in Percezione Sociale e Percezione Fisica.
 
@@ -86,109 +76,13 @@ Totale tratti Discreto o migliore: 6. Tratti totali superiori a Scarso: 10
 Questa distribuzione è meglio per giochi con molti tratti dove il GM vuole che i PG siano ben assortiti ma non estremamente competenti in determinate aree.  
 Tratti totali Discreto o migliore: 9. Tratti totali superiori a Scarso: 14
 
-Le domande importanti qui sono: Qual è il livello di abilità più alto a cui voglio che i miei PG arrivino? Quanti dei loro tratti voglio che siano almeno decenti (Superbo-Discreto)? Voglio dare ai PG abbastanza livelli per essere decenti in tutti i tratti, o voglio forzare i giocatori a specializzarsi?
+Qui le domande importanti sono: Qual è il livello di abilità più alto a cui voglio che i miei PG arrivino? Quanti dei loro tratti voglio che siano almeno decenti (Superbo-Discreto)? Voglio dare ai PG abbastanza livelli per essere decenti in tutti i tratti, o voglio forzare i giocatori a specializzarsi?
 
 Regola facoltativa:  
 Con il permesso del GM, un giocatore può scambiare un tratto con due tratti del livello adiacente. Ad esempio, un tratto Superbo per due tratti Ottimi, un tratto Ottimo per due tratti Buoni, ecc.
 
-### Punti ferita:  
-I punti ferita (PF) sono trattati come qualsiasi altra caratteristica classificata. I PF scarsi valgono 1 PF. Ogni livello di PF superiore a Scarso aumenta i PF del personaggio di 1 punto, quindi un personaggio con PF Mediocri ha 2 PF, un personaggio con PF Discreti ha 3 PF, ecc.  La maggior parte degli attacchi infligge 1 punto di danno. Un personaggio con 0 PF è incosciente o altrimenti inabile. La morte del PG avviene solo con il permesso del giocatore.
-
-Regola alternativa:  
-Tutti i PG hanno la stessa quantità di PF, determinata dal GM. 4 PF sarebbe un buon punto di partenza, con meno PF per giochi più pericolosi, cupi, ad alta letalità, e più PF per giochi in cui i PG hanno una certa quantità di immunità di trama.
-
-### Prove sui tratti:  
-Iniziate con un tratto classificato. Tirate 4dF e spostate il tratto in alto o in basso nella Scala Fudge del numero di passi indicato. Confrontate il risultato con il livello di difficoltà deciso dal GM (se non in opposizione) o con il tratto classificato dell'avversario più o meno un modificatore opzionale deciso dal GM (se in opposizione).  Un pareggio o un risultato migliore significa che il tiro ha successo.
-
-Quando si tira per un tratto non addestrato o non definito: qualsiasi tratto in cui tutti dovrebbero avere una certa abilità (ad esempio combattere, arrampicarsi, matematica di base) ha un valore predefinito Discreto, mentre qualsiasi tratto che richiede conoscenze specialistiche e/o addestramento (ad esempio fisica delle particelle, pilotare un elicottero) ha un valore predefinito Scarso.
-
-Se non possedete dadi Fudge potete invece tirare 4d6. Considerate un tiro di dado di 1 o 2 come un meno, 3 o 4 come uno zero, e 5 o 6 come un più.  Quindi, un tiro di 1, 1, 2, 5 sarebbe equivalente a [-][-][-][+], che si somma a -2.
-
-### Bonus e penalità:
-A volte un giocatore avrà bonus e/o penalità che potrebbero influenzare il suo tiro. +1 è un buon bonus, +2 è un bonus molto buono, e +3 è un bonus molto raro ed elevato. Gli stessi modificatori si applicano anche alle penalità. Solo il singolo bonus più grande e la singola penalità più grande si applicano a qualsiasi tiro.
-
-Regola opzionale:  
-Se il GM vuole applicare un bonus o una penalità inferiore a un livello, può usare dadi di vantaggio o di svantaggio. Questi dadi sono colorati in modo diverso e sostituiscono i normali dadi Fudge quando vengono lanciati. Il giocatore può ignorare qualsiasi risultato negativo su un dado vantaggio e deve ignorare qualsiasi risultato positivo su un dado svantaggio. I due tipi di dado si annullano a vicenda, quindi un giocatore non tirerà mai un dado vantaggio e uno svantaggio nello stesso tiro. 
-
-Un dado vantaggio vale circa 1/3 di un grado Fudge. Ecco alcune linee guida approssimative per i GM:
-
-+3 bonus: un bonus superbo  
-+2 bonus: un bonus ottimo  
-+1 bonus: un bonus buono  
-2 livelli di vantaggio: un bonus discreto  
-1 livello di vantaggio: un bonus mediocre  
-
-Le stesse linee guida si applicano alle penalità.
-
-### Combattimento:
-Il GM descrive una minaccia e chiede ai giocatori: "Cosa fate?" Un tiro del giocatore fallito o un giocatore che ignora una minaccia in arrivo significa che il GM può infliggere danni o causare ulteriori problemi al PG. Non c'è iniziativa; il GM sposta il fuoco dell'azione tra i diversi giocatori a seconda della necessità.
-
-Un attacco riuscito riduce di uno i punti ferita del difensore. Un tiro\* non modificato di +3 o +4 conta come un colpo critico e infligge un punto di danno aggiuntivo. Gli attacchi che prendono di mira la debolezza di un avversario possono anche infliggere danni extra a discrezione del GM.
-
-\*il tiro di 4dF prima di applicarlo al tratto
-
-Regola facoltativa:  
-Se un PG subisce danni come risultato diretto di un tiro di combattimento fallito e il risultato non modificato è -3 o -4, il PG subisce un punto di danno aggiuntivo.
-
-### Guarigione:
-Alla fine di ogni incontro di combattimento i pg riguadagnano pieni PF, a meno che il PG non sia stato ridotto a 0 PF (inabile). Se un PG inabile ha un membro del gruppo che può occuparsene, riguadagna i suoi PF. In caso contrario, viene rianimato alle condizioni del GM. Questa è un'opportunità d'oro per il GM di fare una mossa (vedi Appendice A: Mosse del GM.)
-
-Regola alternativa:  
-I PG richiedono un periodo di tempo più lungo per recuperare la piena salute. Questo può essere misurato in ore, giorni o addirittura mesi. Il GM può includere un'abilità di Guarigione o Medicina per accelerare il processo.
-
-### Magia:
-La capacità di lanciare un tipo specifico di magia è un tratto classificato. I diversi tipi di magia e la loro ampiezza e limiti dipendono dal GM.
-
-Le seguenti linee guida sulla difficoltà degli incantesimi sono adattate dal [Simpler Magic System di Daneel per Mini Six](https://forum.rpg.net/showthread.php?531361-Mini-Six-Simpler-Magic-System)
-
-#### Scarso, Mediocre:  
-A corto raggio (tocco)  
-Breve durata (un'azione)  
-Singolo bersaglio (una creatura/oggetto)  
-Incantesimo/Preghiera, Vedere Aure, Parlare Lingue, Tocco Bruciante  
-
-#### Discreto, buono:  
-Medio raggio (tiro con l'arco)  
-Durata media (diverse azioni)  
-Area Media (più persone)  
-Incantare Persone, Armatura Mistica, Cura Ferite, Palla di Fuoco, Metamorfosi  
-
-#### Ottimo, Superbo, Sovraumano Discreto:  
-Lungo raggio (vista)  
-Lunga durata (intera scena/incontro)  
-Ampia area (folla)  
-Resurrezione, Teletrasporto di Gruppo, Terremoto, Zona Anti-magia  
-
-#### Sovraumano Buono, Sovraumano Ottimo, Sovraumano Superbo:  
-Qualsiasi intervallo, durata, area ed effetto   
-Desiderio, Miracolo  
-
-Regola facoltativa:  
-Aumenta la difficoltà se l'incantesimo lanciato soddisfa più di un criterio di un incantesimo di quel livello.  
-
-Eventi nefasti accadono con un tiro fallito. Quali siano esattamente dipende dalla difficoltà del tiro e da quanto gravemente sia stato fallito il tiro. Alcuni suggerimenti (con qualche ispirazione da Dungeon World e dall'hacking di Dungeon World Wizard World):  
-
-* Tutto ciò che l'incantatore può ottenere è una versione ridotta e limitata dell'incantesimo.
-* L'incantesimo ha un effetto collaterale inaspettato.
-* L'incantatore attira attenzioni indesiderate o si mette in una situazione difficile.
-* L'incantesimo richiede la concentrazione continuativa dell'incantatore. L'incantatore subisce una penalità continuativa di 1 punto al lancio di incantesimi fintanto che l'incantesimo è attivo.
-* L'incantesimo disturba il tessuto della realtà mentre viene lanciato. L'incantatore subisce una penalità continuativa di 1 punto a tutti gli incantesimi finché non si riposano e meditano per almeno un'ora.
-* Come sopra, ma la penalità si applica a tutti i tiri effettuati dall'incantatore, non solo al lancio di incantesimi.
-* L'incantatore subisce danni ad almeno una delle sue statistiche (salute, mana, corruzione, sanità mentale, ecc.) o perde risorse aggiuntive (spazio incantesimi, tempo, equipaggiamento, ecc.)
-
-### Avanzamento del personaggio:
-I personaggi ottengono 1-3 punti esperienza (PE) per sessione.
-
-#### Alzare un tratto classificato:
-Da Terribile a Scarso: 1 PE  
-Da Scarso a Mediocre: 1 PE  
-Da Mediocre a Discreto: 1 PE  
-Da Discreto a Buono: 2 PE  
-Da Buono a Ottimo: 4 PE  
-Da Ottimo a Superbo: 8 PE  
-Da Superbo a Sovrumano Discreto: 16 PE + permesso del GM
-
-Per un avanzamento del personaggio più lento, aumenta i costi.
+### Doni e Difetti (facoltativi):
+Con il permesso del GM, il giocatore e il GM possono collaborare per determinare i tratti positivi del personaggio (Doni) e/o i tratti negativi che non rientrano nella Scala Fudge (Difetti).
 
 ## Regole alternative per la creazione del personaggio
 
@@ -217,116 +111,424 @@ Mediocre:
 Scarso:  
 [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_] [\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_]  
 
-## Regole alternative per l'avanzamento del personaggio:
+## Ruoli (facoltativi):
+Il GM può creare dei ruoli che i giocatori possono selezionare in base al genere di gioco. Ad esempio, un gioco fantasy medievale potrebbe avere i ruoli di Guerriero, Mago, Ladro, ecc. mentre un gioco cyberpunk potrebbe avere Tecnici, Pistoleri, TecMed, Hacker, ecc. Ogni ruolo definisce i doni e/o l'equipaggiamento di cui ogni personaggio dispone.
 
-### Chiavi
-Le chiavi sono comportamenti del PG che premiano il giocatore con PE. Possono essere determinati dal GM o selezionati dal giocatore da un elenco fornito dal GM. Le chiavi di esempio sono fornite nell'Appendice B.
+Alcuni esempi di ruoli:
 
-I giocatori guadagnano 1 PE quando il loro personaggio esegue l'azione ("gira la chiave") o 2 PE quando il personaggio gira la chiave contro grandi probabilità o va affronta un pericolo a causa di ciò. I costi di avanzamento del personaggio vengono moltiplicati per 10.
+Guerriero
+Doni: Caselle ferite extra.
+Equipaggiamento: Armi, armature.
 
-In alternativa, alla fine di ogni sessione il giocatore controlla le proprie chiavi. Per ogni chiave che è stato girata in quella sessione, il giocatore ottiene 1 PE.
+Mago
+Dono(i): tratto Incantatore.
+Equipaggiamento: Libro degli incantesimi, bacchetta, sacchetto di reagenti per incantesimi, pugnale.
 
-Il giocatore può, con il permesso del GM, scambiare una chiave con un'altra. Idealmente, ciò comporterebbe il gioco di ruolo nel personaggio, ma non è necessario.
+Rigger
+Dono(i): Capacità di manovrare droni con il tratto Tecnologia.
+Equipaggiamento: Drone, controller per droni.
 
-### Costi In-Ruolo
-I giocatori possono migliorare i tratti, ma ci saranno costi in-ruolo per il personaggio decisi dal GM (vedi "sì, ma"). Questa regola può essere utilizzata o meno insieme alle regole di PE.
+Space Marine che uccide i demoni
+Doni: Uccisioni gloriose (all'ultimo colpo, il giocatore ha piena libertà narrativa nel descrivere come il suo personaggio uccide il demone).
+Equipaggiamento: Fucile a pompa, granate, armatura elettrica.
 
-### Imparare dal fallimento
-I giocatori guadagnano 1 PE ogni volta che il loro personaggio fallisce un test dei tratti. Il GM dovrebbe aumentare i costi di avanzamento del personaggio per compensare.
+Mitragliere della squadra di fuoco militare
+Doni: Nessuno
+Equipaggiamento: Mitragliatrice
 
-### Imparare dal successo
-I giocatori guadagnano 1 PE ogni volta che il loro personaggio supera una prova di tratto. Il GM dovrebbe aumentare i costi di avanzamento del personaggio per compensare.
+Se un personaggio tenta di usare l'abilità speciale di qualcun altro senza il dono richiesto, il GM può scegliere di autorizzare il tiro con una penalità sufficiente (ad esempio, -2 a un'abilità esistente o trattare l'abilità del giocatore come scarsa). In alternativa, il GM può semplicemente usare ciò che conosce della situazione per determinare il risultato.
 
-### Imparare dal fallimento e dal successo:
-I giocatori guadagnano 1 PE ogni volta che il loro personaggio supera una prova di tratto e ogni volta che il loro personaggio fallisce una prova di tratto. Il GM dovrebbe ASSOLUTAMENTE aumentare i costi di avanzamento del personaggio per compensare.
+## Condizioni:
+I PG iniziano il gioco con spazio per tre condizioni minori e tre condizioni gravi.
 
-## Regole opzionali:
+Per impostazione predefinita, il PG segna le condizioni in ordine (prima quelle minori, poi quelle gravi), ma il GM può decidere di valutare la situazione e dire al giocatore quale condizione segnare. Se il PG vuole prendere una condizione minore quando non c'è più spazio per una, deve invece segnare una condizione grave.
 
-Tutto in questa sezione (da qui a poco prima della sezione Game Master) è completamente opzionale e dovrebbe essere aggiunta al vostro gioco solo se il miglioramento dell'esperienza valesse il prezzo della complessità così aggiunta.
+Quando l'ultima casella della condizione grave di un PG si riempie, viene tolto dalla scena o dal gioco, a seconda della gravità della conseguenza di un fallimento ripetuto.
 
-### Gettoni Fudge:
-I PG iniziano il gioco con 1-5 Gettoni Fudge. Spendere un Gettone Fudge vi consente di effettuare una delle seguenti operazioni:  
+Se il giocatore viene solo tolto dalla scena, tornerà con almeno una delle sue conseguenze minori cancellate all'inizio della scena successiva. Il numero esatto dipende dal GM, ma dovrebbe essere stabilito prima dell'inizio del gioco.
 
-* Superare automaticamente qualsiasi tiro non contrapposto di difficoltà Superba o inferiore.  
-* Modificare un tiro di 1.  
-* Recuperare 1 PF.  
-* Ottenere un risultato +4 senza tirare.\*  
-* Raccontare un dettaglio del mondo che vi circonda.\*  
+Le condizioni minori scompaiono ogni volta che un personaggio ha qualche minuto per curarsi. Le condizioni gravi richiedono che il giocatore impieghi una quantità significativa di tempo per riprendersi, ma una volta che l'ha fatto può cancellare tutte le sue condizioni.
 
-\*Questa opzione richiede l'approvazione del GM e può costare più di un Gettone Fudge.
+Un gioco tradizionale potrebbe utilizzare il tracciato delle condizioni per misurare la salute del PG in questo modo:
 
-Se si utilizzano Gettoni Fudge (GF), il GM dovrà rispondere alle seguenti domande:
+Ferita minore [\_][\_][\_]
+Ferita grave [\_][\_][\_]
 
-* I giocatori riceveranno GF all'inizio di ogni sessione?  
-* In caso affermativo, sarà fino a un massimo o verrà assegnato un importo fisso?  
-* I giocatori possono guadagnare GF nel gioco? Se é cosi, come?   
+Tuttavia, non tutti i giochi utilizzano le ferite come misura principale per stabilire se un PG è in grado di continuare. Ad esempio, un gioco che tratta di contrattare con le forze oscure per ottenere il potere potrebbe tenere conto della corruzione invece che delle ferite, e un gioco che tratta di conflitti sociali ai cocktail party potrebbe tenere conto dell'imbarazzo.
 
-Sia i PE che i Gettoni Fudge possono essere usati come ricompensa per incoraggiare comportamenti specifici da parte dei PG. I Gettoni Fudge dovrebbero essere assegnati quando il GM vuole dare ai giocatori bonus fuori dal personaggio una tantum, mentre PE dovrebbero essere assegnati quando il GM vuole rappresentare un miglioramento del personaggio a lungo termine nel personaggio.
+Il GM è libero di personalizzare qualsiasi aspetto dei tracciati delle condizioni, come il numero di condizioni diverse che i tracciati rilevano e quali sono, quante caselle ha ogni condizione, quanto tempo impiegano le diverse caselle a riprendersi e cosa causa il recupero di ogni traccia.
 
-Basta non far scegliere al giocatore tra PE e GF. Non funziona mai bene.
+Ad esempio, un gioco in cui i giocatori indagano su divinità anziane che sconvolgono la mente e sui culti che le venerano potrebbe avere solo due caselle per le ferite (a indicare che il combattimento fisico è da evitare) e una traccia separata per la salute mentale che utilizza 6 condizioni (3 minori, 3 gravi). Se una delle due tracce è completamente cancellata, il PG viene eliminato.
 
-Notare che i Gettoni Fudge possono essere usati anche per bilanciare archetipi di personaggi sbilanciati. Un personaggio iniziale più forte con più doni e abilità ad alti livelli dovrebbe iniziare ed essere in grado di ottenere meno Gettoni Fudge di un personaggio più debole con poche buone abilità.
+Regola opzionale:
+Il GM può lasciare in bianco le caselle delle condizioni e decidere cosa sia ogni condizione quando viene presa dal PG. La condizione deve essere scritta accanto alla casella e cancellata quando la condizione viene eliminata. Ad esempio, un PG potrebbe prendere le tre condizioni minori "caviglia slogata", "sentimenti feriti" e "sentimenti feriti", e la condizione grave "costole incrinate".
 
-### Penalità per ferite / Tracciamento ferite semplificate:
-Ogni volta che un personaggio ha subito abbastanza danni, subisce una penalità a tutti i tiri rilevanti. Un personaggio ridotto a 2 PF avrà una penalità di -1 e un personaggio ridotto a 1 PF avrà una penalità di -2. Un personaggio in piena salute non subisce mai penalità per le ferite, anche se la sua piena salute è solo di 1 o 2 PF. Un personaggio con punti ferita superbi (6 PF) potrebbe registrare le proprie ferite in questo modo:  
+Regola opzionale:
+Per impostazione predefinita, i giocatori segnano solo una casella di condizione alla volta. Tuttavia, il GM potrebbe voler consentire ai conflitti di barrare più di una casella alla volta. In questo caso, il GM può assegnare dei numeri alle diverse intensità delle condizioni. Per esempio:
 
-Graffio: OOO  
-Ferito (-1): O  
-Ferito Gravemente (-2): O  
-Inabile: O  
+Effetto mediocre: 1 casella
+Effetto discreto: 2 caselle
+Effetto buono: 3 caselle
+Grande effetto: 4 caselle
+Effetto superbo: 5 caselle
 
-### Punti Mana Semplici:
-Ogni incantatore ha un attributo di capacità di incantatore (es. mana, magia, anima, spirito). Il punteggio di quell'attributo sulla Scala Fudge determina i Punti Mana (PM) dell'incantatore. Un mana scarso è 1 MP e ogni livello di tratto aggiuntivo aumenta gli MP del personaggio di 1 punto. Lanciare una magia costa 1 MP. Il mana si rigenera completamente con un'intera notte di riposo.
+Utilizzando questa tabella, un pugno potrebbe segnare una casella di danno, mentre un colpo di pistola o una pugnalata potrebbero segnarne quattro.
 
-### Tracciamento delle statistiche:
-Il tracciamento delle statistiche può essere utilizzato in aggiunta al tracciamento della salute ogni volta che un personaggio deve tenere conto di una sorta di risorsa che, quando completamente persa, rende il PG incapace di agire in assoluto o in un certo modo. La difficoltà predefinita per il tracciamento delle statistiche è Discreta, a meno che un altro livello di difficoltà non abbia più senso. Le penalità di tracciamento diverse non si accumulano; solo la penalità più alta si applica alle azioni di un personaggio.
+Un GM che utilizza questa regola dovrebbe probabilmente dare ai giocatori più caselle di condizione per compensare l'aumento del danno.
 
-#### Tracciamento della salute con ripristino della salute più lento  
-La penalità si applica a: Azioni fisiche  
-Perdete salute quando: subite danni  
-Tiro Salvezza: qualsiasi tratto di combattimento o evasione appropriato  
-Recupero della salute: riposare per diverse ore in un territorio non sicuro (territorio nemico, deserto, dungeon) cura la metà degli PF massimi dei giocatori, arrotondati per eccesso. Riposare durante la notte in sicurezza e comfort guarisce tutti i PF.  
-Livelli statistiche: Graffio (0), Ferito (-1), Ferito Gravemente (-2), Inabile  
+Regola alternativa: condizioni non lineari
+Invece di usare condizioni minori e gravi, il GM potrebbe creare condizioni che non devono essere segnate in un ordine specifico. Potrebbero essere stati fisiologici come malato, affamato, ferito ed esausto, e/o stati emotivi come spaventato, arrabbiato, colpevole e senza speranza. Le condizioni specifiche devono essere scelte per rafforzare una specifica esperienza di gioco. Ad esempio, un gioco sul dramma adolescenziale avrà condizioni diverse rispetto a un gioco sulla sopravvivenza nella natura.
 
-#### Invocare le forze oscure
-Vantaggi: consente al personaggio di accedere agli incantesimi di magia oscura e riduce la difficoltà di determinate azioni (gettone fudge gratuito?)  
-La penalità si applica a: usare incantesimi leggeri o neutri  
-Tracciamento statistica basato su: Volontà  
-Quando tirare: ogni volta che un PG usa la magia con rabbia o usa un'abilità di magia oscura.  
-Tratto contro cui rotolare: Volontà  
-Sbarazzarsi dei punti di magia oscura: 1 punto ogni 2 sessioni. Richiede uno sforzo nel personaggio.  
-Livelli statistiche: Toccato (-0), Consumato (-1), Corrotto (-2), Consumato (PNG)  
+Il GM deciderà quale condizione non lineare contrassegnare o lo farà il giocatore. Quando il GM non ha in mente una condizione specifica, dovrebbe lasciare che sia il giocatore a decidere.
 
-#### Livello di Sanità (stile Richiamo di Cthulhu)  
-La penalità si applica a: Sanità mentale, la maggior parte delle abilità sociali e possibilmente i tiri di Volontà  
-Tracciamento statistica basata su: Sanità  
-Quando tirare: ogni volta che un personaggio vede qualcosa che non dovrebbe esistere, sangue eccessivo o tenta di lanciare un incantesimo da solo.  
-Tratto contro cui tirare: Sanità  
-Riacquistare la sanità mentale: 1 punto per sessione, o 2 se il personaggio si sottopone a terapia tra le sessioni.  
-Livelli statistici: Disorientato (0), Disturbato (-1), Sconvolto (-2), Completamente Pazzo (PNG)  
+Se il GM usa condizioni non lineari, deve includere una condizione finale che rappresenti l'uscita dalla scena o dal gioco.
 
-#### Riserva di Mana  
-Beneficio: permette al personaggio di lanciare incantesimi  
-La penalità si applica a: lanciare incantesimi e/o azioni fisiche  
-Statistica basata su: Riserva di Mana  
-Un tiro per lanciare incantesimi fallito costa al personaggio un punto di mana. In alternativa, il GM può invece una mossa appropriata.  
-Nota: se si utilizza questo tracciamento, è probabilmente una buona idea che il tratto che rappresenta l'abilità di incantatore di un personaggio sia separato da quello che rappresenta la sua riserva di mana.  
+Regola opzionale:
+Segnare in alcune caselle delle condizioni può dare al PG delle penalità alle prove dei tratti pertinenti. Per esempio, questa traccia di ferita dà le seguenti penalità alle azioni fisiche:
 
-## Game Master
+Graffio: [\_][\_][\_]
+Ferita (-1): [\_]
+Molto ferito (-2): [\_]
+Incapacitato: [\_]
 
-### Attacchi furtivi e Colpo di grazia:  
-I punti ferita si applicano ai PNG solo nelle situazioni in cui il PNG è in grado di rispondere alla minaccia. Se il PNG viene reso inabile o colto alla sprovvista, può essere messo fuori combattimento o ucciso da un PG indipendentemente dai suoi punti ferita.
+Tenete presente che questo può portare a una spirale mortale in cui diventa più difficile per un PG evitare di subire condizioni perché ne ha già.
 
-### Pericoli per l'ambiente:
-Il danno che potrebbe uccidere un essere umano infligge 1 danno. I danni che potrebbero uccidere un cavallo infliggono 2 danni e i danni che potrebbero uccidere un orco o distruggere un veicolo infliggono 3 danni.
+### Punti Fudge (facoltativi):
+Il GM può assegnare ai PG 1-5 Punti Fudge con cui iniziare la partita. Il GM deve stabilire per quali usi il giocatore può spendere i Punti Fudge:
 
-### Creazione PNG:
-I PNG hanno un grado di minaccia, punti ferita e qualsiasi altro tratto che il GM desideri. Qualsiasi tratto classificato non definito viene impostato di default sul grado di minaccia del PNG. I PNG hanno anche comportamenti che possono essere attivati ​​​​ogni volta che un giocatore fallisce un tiro, chiedete al GM per vedere cosa succede, o ignora una minaccia. I nemici destinati a battaglie brevi dovrebbero avere solo 1 o 2 Punti Ferita ciascuno. I personaggi con più importanza narrativa possono avere PF equivalenti a un PG.
+- Tirare di nuovo una prova su un tratto.
+- Riuscire automaticamente in qualsiasi tiro non opposto di difficoltà Superba o inferiore.
+- Modificare un tiro di 1.
+- Ridurre la gravità di una condizione di un livello, eliminandola se è già al livello più debole. Una condizione non può essere spostata in uno slot - inferiore se non c'è spazio libero per essa.
+- Convertire un fallimento in un successo.
+- Ottenere un risultato di +4 senza tirare.
+- Garantire una coincidenza favorevole nel mondo circostante.
+
+Se si utilizzano i Punti Fudge (FP), il GM dovrà rispondere alle seguenti domande:
+
+- I giocatori riceveranno i FP all'inizio di ogni sessione?
+- In caso affermativo, sarà possibile ottenere un massimo o ci sarà un importo fisso?
+- I giocatori possono guadagnare FP in gioco? Se sì, come?
+
+Sia i Punti Fudge che i punti PX (descritti nella sezione Avanzamento del personaggio) possono essere usati come ricompensa per incoraggiare comportamenti specifici da parte dei PG. I punti fudge dovrebbero essere assegnati quando il GM vuole dare ai giocatori dei bonus una tantum fuori dal personaggio, mentre i punti PX dovrebbero essere assegnati quando il GM vuole rappresentare un miglioramento a lungo termine del personaggio.
+
+Ma non fate scegliere al giocatore tra PX e FP. Questo può portare i giocatori ad accumulare PX perché non vogliono scambiare una risorsa permanente per un incremento temporaneo. Questi giocatori avanzerebbero più velocemente di quelli che spendono più PF, causando in seguito uno squilibrio tra i personaggi.
+
+# Come giocare
+
+## Prove sui tratti
+Quando un PG tenta di fare qualcosa di significativo, il GM può richiedere una prova su un tratto. Le prove sui tratti si eseguono tirando i dadi Fudge (o dadi Fate). Si tratta di dadi a 6 facce con due lati "+", due lati "-" e due lati vuoti ciascuno. 4dF significa che si tirano 4 dadi Fudge, per un risultato da -4 a +4.
+
+Il giocatore inizia con il tratto appropriato e tira 4dF, spostando il tratto verso l'alto o verso il basso nella Scala Fudge in base al risultato. Il giocatore confronta il risultato con il livello di difficoltà deciso dal GM (se non è contrastato) o con il tratto pertinente dell'avversario più o meno un modificatore opzionale deciso dal GM (se è in opposizione). Un pareggio o un risultato migliore significa che il rullo ha successo. Se il GM non è sicuro della difficoltà, può impostarla a Discreta o a zero modificatori.
+
+Esempio: un PG con Atletica Buona sta cercando di saltare un piccolo fiume. Il GM ha deciso che la difficoltà sarebbe stata Ottima, che è due livelli più alta di Discreta, quindi il giocatore avrebbe dovuto tirare un +2 o più per avere successo.
+
+Un tiro fallito non significa necessariamente che il PG abbia fallito nel suo compito, ma i risultati sono sempre peggiori di quelli che avrebbe ottenuto se il tiro fosse riuscito.
+
+Che un tiro abbia successo o meno, dovrebbe sempre causare un cambiamento dello status quo in qualche modo. Se non cambia nulla perché il giocatore ha fallito (o è riuscito) in un tiro, il GM deve mettere in gioco qualcosa o decidere se il giocatore riesce o fallisce senza tiro.
+
+Un tiro fallito per raccogliere informazioni (conoscenza, percezione, ecc.) dovrebbe significare che il giocatore ha scoperto qualcosa di brutto o indesiderato, non che non ha trovato nulla.
+
+Se il GM richiede una prova su un tratto che non rientra in nessuno dei tratti esistenti di un PG: se si tratta di un tratto in cui tutti dovrebbero avere una certa abilità (ad esempio, combattere, arrampicarsi, matematica di base), dovrebbe essere assegnato come valore predefinito a "Discreto". Se il tratto richiede conoscenze specialistiche e/o addestramento (ad esempio, fisica delle particelle, pilotaggio di elicotteri), il valore predefinito è Scarso.
+
+Se un giocatore non possiede dadi Fudge, può invece tirare 4d6, considerando il risultato di 1 o 2 su un dado come un meno, 3 o 4 come un vuoto e 5 o 6 come un più. Quindi, un tiro di 1, 1, 2, 5 equivale a [-][-][-][+], che si somma a -2.
+
+## Tratti oltre il Superbo
+Sebbene gli effetti dei tiri in genere non vadano oltre il Superbo, a volte la difficoltà di un tiro è più difficile del Superbo ma ancora tecnicamente possibile. Per questi tiri esiste il livello Superumano.
+
+- Superumano Superbo
+- Superumano Ottimo
+- Superumano Buono
+- Superuomo Discreto
+- Superbo
+- Ottimo
+- Buono
+- Discreto
+- Mediocre
+- Scarso
+- Terribile
+  
+## Bonus e penalità:
+A volte il GM assegna un bonus e/o una penalità al tiro del giocatore. +1 è un bonus buono, +2 è un bonus molto buono e +3 è un bonus molto raro e molto alto. Gli stessi modificatori si applicano anche alle penalità. Solo il singolo bonus o penalità più grandi si applicano a un determinato tiro.
+
+### Regola opzionale:
+Se il GM desidera applicare un bonus o una penalità inferiore di un livello, può utilizzare dadi vantaggio o svantaggio. Questi dadi sono colorati in modo diverso e sostituiscono i normali dadi Fudge quando vengono lanciati. Il giocatore ignora qualsiasi risultato negativo su un dado vantaggio e ignora qualsiasi risultato positivo su un dado svantaggio. I due tipi di dado si annullano a vicenda, quindi un giocatore non potrà mai tirare un dado vantaggio e un dado svantaggio nello stesso lancio.
+
+Un dado vantaggio vale circa 1/3 di un grado Fudge. Ecco alcune indicazioni di massima per i GM:
+
++3 bonus: un superbo bonus
++2 bonus: un ottimo bonus
++1 bonus: un buon bonus
+2 livelli di vantaggio: un bonus discreto
+1 livello di vantaggio: un bonus mediocre.
+
+Le stesse linee guida si applicano alle penalità.
+
+## Magia:
+Le seguenti linee guida sulla difficoltà degli incantesimi sono adattate dal [Simpler Magic System di Daneel per Mini Six](https://forum.rpg.net/showthread.php?531361-Mini-Six-Simpler-Magic-System)
+
+### Scarso, Mediocre:  
+A corto raggio (tocco)  
+Breve durata (un'azione)  
+Singolo bersaglio (una creatura/oggetto)  
+Incantesimo/Preghiera, Vedere Aure, Parlare Lingue, Tocco Bruciante  
+
+### Discreto, buono:  
+Medio raggio (tiro con l'arco)  
+Durata media (diverse azioni)  
+Area Media (più persone)  
+Incantare Persone, Armatura Mistica, Cura Ferite, Palla di Fuoco, Metamorfosi  
+
+### Ottimo, Superbo, Sovraumano Discreto:  
+Lungo raggio (vista)  
+Lunga durata (intera scena/incontro)  
+Ampia area (folla)  
+Resurrezione, Teletrasporto di Gruppo, Terremoto, Zona Anti-magia  
+
+### Sovraumano Buono, Sovraumano Ottimo, Sovraumano Superbo:  
+Qualsiasi intervallo, durata, area ed effetto   
+Desiderio, Miracolo  
+
+Regola facoltativa:  
+Aumenta la difficoltà se l'incantesimo lanciato soddisfa più di un criterio di un incantesimo di quel livello.  
+
+## Regole di magia alternative: Magia minore e magia rituale
+Invece di classificare la difficoltà della magia sulla Scala Fudge, un altro approccio è quello di dividere la magia in uno dei due tipi a seconda di quanto è potente: magia minore e magia rituale.
+
+La magia minore richiede un tiro di dado del tratto magico pertinente del giocatore contro una difficoltà di base Discreta. Un incantesimo di magia minore non può influenzare nulla per più di mezzo minuto circa, non può influenzare più di un piccolo gruppo di persone per ogni lancio, non può influenzare nulla più lontano di quanto una persona media possa lanciare una pietra e non può controllare o deselezionare più di una singola condizione alla volta.
+
+Se il vostro gioco usa la regola opzionale che permette di togliere più di una condizione alla volta, la magia minore non può spuntare o deselezionare più di un numero equo di caselle alla volta.
+
+La magia rituale non ha queste limitazioni, ma ha dei requisiti che devono essere soddisfatti prima che l'incantesimo possa essere lanciato. Il GM vi dirà cosa è necessario fare per ottenere l'effetto desiderato. Alcuni esempi sono:
+
+Deve avvenire in un determinato luogo.  
+Richiede uno o più ingredienti specifici.  
+Richiede l'assistenza di una o più persone specifiche.
+
+Il GM può richiedere più di uno di questi elementi.
+
+La magia rituale non richiede un tiro per innescare la magia. Una volta soddisfatti i requisiti ed eseguito il rituale, la magia ha effetto.
+
+# Avanzamento del personaggio:
+
+## Costi di avanzamento di un tratto:
+Da Terribile a Scarso: 1 PX  
+Da Scarso a Mediocre: 1 PX  
+Da Mediocre a Discreto: 1 PX  
+Da Discreto a Buono: 2 PX  
+Da Buono a Ottimo: 4 PX  
+Da Ottimo a Superbo: 8 PX  
+Da Superbo a Sovrumano Discreto: 16 PX + permesso del GM
+
+Un giocatore può migliorare più tratti per sessione, ma può migliorare ogni tratto di un solo livello per sessione. I metodi per ottenere PX sono indicati di seguito. Il GM può utilizzare più di un metodo per dispensare PX, ma non è obbligato a farlo.
+
+I costi indicati nella tabella di avanzamento devono essere moltiplicati per la quantità media di PX che i giocatori possono ottenere per sessione.
+
+## Metodo diretto
+I personaggi ottengono 1-3 punti esperienza (PX) per sessione.
+
+## Chiavi
+Le chiavi sono comportamenti specifici del PG che premiano i giocatori con PX. Le chiavi sono determinate dalla collaborazione tra il giocatore e il GM, oppure dal giocatore che ne seleziona una o più da un elenco fornito dal GM (si veda l'Appendice B per un elenco di esempi). (Il GM può assegnare 1 PX ogni volta che un giocatore gira la sua chiave, o 1 PX per ogni tasto alla fine della sessione, o solo 1 PX alla fine della sessione per aver girato qualsiasi chiave.
+
+Se un giocatore ritiene che le sue chiavi attuali non si adattino al tipo di personaggio che desidera interpretare, può consultarsi con il GM e scambiare una o più chiavi.
+
+Scegliendo le chiavi, il giocatore dice al GM in che tipo di situazioni è interessato ad entrare, quindi il GM deve assicurarsi di dare loro l'opportunità di girare le chiavi durante il gioco.
+
+## Domande di fine sessione:
+Il GM fornirà ai PG un elenco di domande a cui rispondere alla fine di ogni sessione. Per ogni risposta affermativa il giocatore guadagna 1 PX.
+
+## PX quando si manca:
+Ogni volta che un giocatore fallisce un tiro guadagna 1 PX. Questa regola ha lo scopo di incoraggiare i giocatori a usare i loro tratti più deboli e di togliere un po' di peso a un tiro fallito.
+
+Questa regola non dovrebbe essere usata se il GM richiede tiri quando non c'è posta in gioco.
+
+## Costi del personaggio (regola opzionale):
+Il GM può scegliere di imporre a un PG dei requisiti interni per migliorare il suo tratto, come descritto nella regola "Sì, ma" nella sezione Condurre il gioco. Questo può essere usato o meno insieme ai requisiti di PX.
+
+# Condurre il gioco
+In Fudge Lite i giocatori raccontano al gruppo ciò che il loro personaggio dice, pensa, fa e/o prova. Il ruolo del GM è quello di descrivere l'ambiente e i PNG, mostrare come questi sono influenzati o reagiscono ai PG e richiedere controlli sui tratti, come appropriato. A volte, tuttavia, il GM ha bisogno di avviare lui stesso un'azione. A questo servono le mosse del GM.
+
+## Elenco delle mosse del GM:
+- Utilizzare il comportamento predefinito di un PNG
+- Rivelare una verità spiacevole
+- Annunciare una sfortuna futura
+- Infliggere una condizione
+- Offrire un'opportunità, con o senza costo
+- Mettere un personaggio in difficoltà
+- Costringerlo a scegliere
+- Comunicare i requisiti o le conseguenze e chiedere
+- Fare un conto alla rovescia e segnare una casella
+- Far avanzare un conto alla rovescia
+
+Potete adattare questo elenco al tono del gioco che state conducendo, aggiungendo e/o togliendo mosse a seconda delle necessità.
+
+A titolo di confronto, ecco una serie di mosse del GM che ho scritto per un'ambientazione "slice of life", senza combattimenti e con pochi conflitti, che ho gestito per mia madre:
+
+- Offrire un'opportunità, con o senza un costo
+- Mostrare un conflitto
+- Dare a qualcuno una priorità in conflitto
+- Incontrare un personaggio
+- Permettere al protagonista di avere successo, con o senza un costo
+- Condividere la storia, i problemi, i desideri o gli obiettivi di un personaggio
+
+## Mosse leggere e mosse pesanti:
+Una mossa leggera è qualcosa che causerà problemi se non viene gestita. Una mossa pesante è quel problema che si verifica effettivamente. Vedere un pugno che viene verso di voi è una mossa leggera. Vi dà il tempo di affrontarlo. Ricevere un pugno e segnare una ferita è una mossa pesante. Il problema si è verificato ed è troppo tardi per intervenire.
+
+## Fare delle mosse:
+Quando c'è una pausa nella conversazione e i giocatori guardano a voi per vedere cosa succede, dovreste fare una mossa leggera. Se un giocatore fallisce una prova sui tratti o vi offre un'opportunità su un piatto d'argento, è il momento di fare la mossa più pesante che volete. Non deve essere necessariamente una mossa pesante, ma può esserlo.
+
+Per fare una mossa da GM, guardate l'elenco delle mosse da GM e sceglietene una che sia appropriata alla situazione. Poi fatela fare ai PG.
+
+Non dite mai il nome della mossa. Fate in modo che sia qualcosa che accade realmente all'interno del mondo fittizio. Non dite: "Rivelo una verità spiacevole". Dite: "Si scopre che il ponte non era così stabile come si pensava! Si sente un forte scricchiolio della pietra sotto i piedi".
+
+Dopo ogni mossa chiedete a un giocatore o ai giocatori: "Cosa fate?".
+
+Va benissimo avere una conversazione tra il GM e i PG senza saltare immediatamente a una mossa del GM. I giocatori possono fare cose, prendere decisioni ed essere proattivi senza che il GM debba intervenire. Il GM effettua una mossa del GM solo quando la conversazione si blocca, un giocatore fallisce un tiro o un giocatore fa qualcos'altro che richiede una mossa del GM.
+
+## Esempi di mosse del GM:
+
+### Utilizzare il comportamento predefinito di un PNG
+Uno dei comportamenti di Christine Cassiopea è "Lascia che i tuoi tirapiedi si occupino delle cose".
+
+GM: "Christine ti guarda con scherno. 'Come vuoi, sfigato', dice. Uno di voi può essere gentile e occuparsi di questo disgraziato al posto mio?". Due uomini ben vestiti in smoking si fanno avanti con il sorriso sulle labbra. Uno di loro scrocchia le nocche in modo minaccioso. Che cosa fate?"
+
+### Rivelare una verità spiacevole
+Una verità spiacevole è qualsiasi cosa che un PG vorrebbe non fosse vera. Non deve essere necessariamente qualcosa di già stabilito in precedenza. Il GM può inventare sul momento un nuovo elemento della storia, purché si adatti al tono e all'ambientazione del gioco.
+
+GM: "Gli date un pugno in faccia. La pelle si lacera e si stacca, rivelando il teschio sorridente di un Lich. Cosa fate?"
+
+GM: "Avete realizzato con successo il dispositivo di occultamento, ma anche con i vostri sforzi non siete riusciti a farlo funzionare perfettamente. La macchina è instabile, soggetta a malfunzionamenti e l'invisibilità che ne deriva sarà al massimo temporanea. Cosa fate?"
+
+### Annunciare una sfortuna futura
+GM: "La maniglia della porta tintinna mentre qualcuno cerca di aprirla. Si sente il tintinnio delle chiavi dall'altra parte. Il proprietario della casa deve essere tornato a casa presto. Cosa fate?"
+
+GM: "Guardando attraverso il telescopio si vedono i lampi di luce che indicano il fuoco dei missili e due piccoli blob che si ingrandiscono a una velocità allarmante. Arriveranno in meno di un minuto. Cosa fate?"
+
+### Infliggere una condizione
+GM: "Alex fa oscillare il piede di porco in modo selvaggio, tagliandoti dolorosamente la testa. Segna una ferita. Cosa fai?"
+
+### Offrire un'opportunità, con o senza costi
+GM: "Il suo percorso lo porta proprio sotto di voi e non sembra aver notato che siete appollaiati sul cavalcavia. Potresti cadere su di lui, ma rischieresti di farti male. Che cosa fai?".
+
+GM: "Nessuno ti guarda. Se volessi afferrare l'amuleto, questo sarebbe il momento giusto. Cosa fai?"
+
+I ruoli sono buone fonti di opportunità, se il GM li usa.
+GM: "Non vedete un modo semplice per il vostro gruppo di entrare nell'edificio, ma Rigger, notate una presa d'aria che sembra abbastanza grande per il vostro drone. Cosa fai?"
+
+### Mettere un personaggio in difficoltà
+GM: "Il tuo piede è bloccato e il contrappeso gigante oscilla verso di te. Cosa fate?"
+
+GM: "Il mostro ringhioso si scaglia contro l'auto rovesciata, cercando di raggiungere la donna intrappolata all'interno. La sentite urlare di terrore. Cosa fate?"
+
+### Costringerli a scegliere
+GM: "Mentre vi avvicinate alla pergamena, sentite uno strano clic mentre il terreno sotto i vostri piedi cede leggermente. La saracinesca dietro di voi inizia ad abbassarsi rumorosamente. Potete rimanere all'interno con la pergamena o correre fuori dalla stanza, ma non c'è tempo per fare entrambe le cose. Cosa fare?"
+
+Il giocatore deve avere abbastanza informazioni per rendere la scelta significativa. Se la scelta è tra due porte identiche senza altre informazioni, non è una scelta significativa.
+
+Il giocatore può scegliere una terza opzione se ha senso all'interno della narrazione.
+
+### Comunicate i requisiti o le conseguenze e chiedete
+GM: "Vuoi questa spada?" chiede l'uomo. 'Certo, se riesci a battermi in duello'. Cosa fate?".
+
+GM: "La guardia è disposta a guardare dall'altra parte mentre vi intrufolate nel palazzo, ma in cambio vuole la statua d'oro che avete ottenuto prima. Cosa fate?"
+
+### Fare un conto alla rovescia e segnare una casella
+GM: "Faccio un conto alla rovescia di 6 caselle. Quando l'ultima casella viene segnata, l'edificio crolla. Se siete ancora all'interno quando ciò accade, il vostro personaggio morirà. Cosa fate?"
+
+### Avviare un conto alla rovescia
+GM: "La sirena vi dà un pugno nello stomaco. Nonostante i vostri sforzi, dalla vostra bocca fuoriescono bolle d'aria. Segna una casella del conto alla rovescia dell'ossigeno. Cosa fate?".
+
+## Non pianificate la storia.
+Per usare correttamente le mosse del GM, non dovreste pianificare in anticipo come sarà la storia. Non potete aspettarvi che i PG affrontino il mostro, salvino la principessa e la riportino al re per la loro ricompensa. Se volete, potete pianificare l'ambientazione, con il mostro, la principessa e il re, e potete abbozzare vagamente i luoghi di massima (lasciando molto spazio all'improvvisazione), ma lasciate che i tiri dei giocatori e le mosse del GM portino la storia ovunque essa vada.
+
+Forse la principessa è segretamente migliore amica del mostro. Forse il re non ha intenzione di lasciare in vita i PG o la principessa, e ora devono affrontare un esercito che vuole ucciderli. Forse l'anima della principessa è rimasta intrappolata nella tana del mostro e ora i giocatori devono trovare un mago che li aiuti a rianimarla. Giocate per scoprire dove va a parare la storia.
+
+## Regole del combattimento:
+Il combattimento è quasi identico al resto del gioco: il GM e i giocatori hanno una conversazione, e il GM fa le mosse del GM e richiede i tiri, come appropriato. A differenza dei giochi di ruolo più tradizionali, non esistono iniziative di combattimento o turni rigidamente definiti. Il GM si limita a muovere i riflettori secondo le necessità.
+
+Una prova sui tratti fallita in combattimento può significare che il PG subisce una condizione, ma infliggere una condizione è solo una delle tante mosse possibili che il GM può fare.
+
+### Esempio di combattimento
+Il GM in questo esempio sta gestendo un gioco fantasy medievale che prevede l'esplorazione di dungeon, l'uccisione di mostri e il recupero di tesori.
+
+GM: Il cultista agita minacciosamente il suo bastone sull'altare, ma la minaccia più immediata sono i suoi due compagni cavalieri di warg che si stanno rapidamente avvicinando a voi. I goblin hanno lame ricurve e malvagie e gridano per il vostro sangue. Come reagite alla loro carica?
+PG: Lancio un cantrip lampo per accecarli.
+GM: Qual è la tua Intelligenza?
+PG: Mediocre.
+GM: Direi che lanciare il lampo in questo contesto richiede un'Intelligenza Mediocre, quindi devi solo tirare 0 o più sul dado Caramella.
+
+Il giocatore tira -1.
+
+GM: Mediocre meno un livello è Scarso. L'incantesimo si ritorce contro di voi e vi colpisce in faccia, accecandovi temporaneamente. Cosa fate?
+PG: Ok, so che i wargs stanno arrivando, quindi cerco di saltare via.
+GM: Prova di destrezza.
+
+Il giocatore ottiene -3.
+
+PG: Augh! È... un livello sotto Terribile! Ho fatto così male il mio tiro che non c'è nemmeno una classifica!
+GM: Accecato, corri dritto contro il muro. Sfruttando il momento di disorientamento, i goblin vi attaccano da dietro con le loro spade. Sentite le lame fendere la vostra armatura. Segnate una ferita.
+PG: Questa è stata la mia ultima ferita minore. Maledetto inferno.
+GM: Ok, la cecità temporanea è svanita, ma sei ancora un po' disorientato. Sei a -1 al prossimo tiro. I cavalieri warg si avvicinano per un altro passaggio. Cosa fai?
+PG: Salto sul warg più vicino per buttare giù il goblin dal suo trespolo.
+GM: Questo richiede un tiro di Destrezza buono, seguito da una prova di Forza opposta per buttare giù il goblin. Tiro di Destrezza.
+
+Il giocatore tira -1.
+
+GM: Se si aggiunge la penalità di -1 per il disorientamento e la tua Destrezza Mediocre, hai fatto Terribile. Riesci a salire sul warg, ma a caro prezzo. A causa della tua incertezza, il goblin ha un tiro libero contro di te. Segnate un'altra ferita. Bene, ora la prova di Forza contrastata. Il goblin ha una Forza Mediocre.
+PG: Io ho Forza Buona, quindi dovrebbe funzionare.
+
+Il giocatore tira -1.
+
+PG: Quindi il mio discreto batte il mediocre del goblin.
+GM: E il goblin va giù!
+
+### Posizionamento fittizio e meccaniche di combattimento:
+Le ferite si applicano ai PNG solo in situazioni in cui il PNG è in grado di rispondere alla minaccia. Se un PNG è disattivato o colto alla sprovvista, può essere messo fuori combattimento o ucciso indipendentemente dalla sua traccia di condizione.
+
+Al contrario, se un nemico è troppo ben protetto dal punto di vista narrativo, il giocatore non può tirare per infliggergli danni. Un grande drago o un carro armato militare non saranno feriti da un tizio che agita a caso una spada, indipendentemente da quanto bene il giocatore tiri.
+
+### Per ulteriori informazioni:
+Per ulteriori informazioni sulle mosse del GM e sul flusso dei combattimenti, consultate la guida fanmade di Dungeon World, linkata [nel sito web di Dungeon World](https://dungeon-world.com/downloads/). Le regole sono leggermente diverse, ma dovrebbero aiutarvi a farvi un'idea generale. Per contestualizzare, un risultato di 7-9 in Dungeon World equivale all'incirca a un successo di un punto in una prova di abilità di Fudge. Quindi, se la difficoltà della prova di abilità è Discreta, un risultato di 7-9 equivale a un risultato compreso tra Mediocre e Buono.
+
+## PNG
+I PNG hanno una traccia di condizioni e tutti i tratti che il GM desidera. I tratti che non rientrano nella Scala Fudge sono chiamati Doni (quando sono positivi) e Difetti (quando sono negativi). Anche i PNG hanno comportamenti che possono essere usati come mosse del GM.
+
+I PNG che non rappresentano un serio ostacolo per i PG dovrebbero avere solo 1 o 2 caselle nelle loro tracce di condizioni. I PNG con maggiore importanza narrativa possono avere tracce di condizioni più grandi, come quelle di un PG.
+
+A seconda della loro personalità, alcuni PNG possono cercare di porre fine a un conflitto senza vincerlo (cioè scappare o arrendersi). Non sempre devono combattere fino alla fine.
 
 ### Esempi di PNG:
 
+#### Christine Cassiopea
+Ambientazione: Alta borghesia dei giorni nostri.  
+Fisico: Terribile  
+Conflitto sociale: Superbo  
+Dono: Super-ricca.  
+Difetti: Una super stronza.  
+Comportamento: Fare commenti sprezzanti sull'abbigliamento di qualcun altro. Lasciare che i suoi tirapiedi si occupino di tutto.
+
+#### Huai Dan 
+Ambientazione: Xianxia (Cina fantasy, ma con stronzi ovunque).  
+Descrizione: Un coltivatore di Qi.  
+Sociale: Discreto  
+Combattimento: Superumano da ottimo a discreto  
+Dono: È in grado di compiere imprese sovrumane.  
+Difetto: ha una pelle molto sottile quando si tratta di mancanza di rispetto.  
+Comportamento: Vendica ogni insulto. Essere orgogliosi e vanagloriosi, anche di fronte a un nemico più forte. Ruba le risorse di coltivazione agli altri.
+
+#### Killbot 9000
+Ambientazione: Survival horror/azione.  
+Descrizione: Carne umana su un corpo robotico. In grado di passare facilmente per umano.  
+Fisico: Superumano buono  
+Combattimento: Discreto  
+Dono: Corpo robotico praticamente indistruttibile.  
+Difetti: Vulnerabile a pressioni o temperature incredibilmente elevate.  
+Comportamento: Rintracciare e cercare di uccidere un umano specifico.
+
 #### Troll
-Valutazione della minaccia: Ottima  
+Ambientazione: Fantasy medievale.  
+Descrizione: Grande. Muto. Forte.  
+Fisico: Grande  
 Dono: rigenerazione rapida. Se un giocatore fallisce il tiro, il troll può riguadagnare un punto ferita.  
 -e/o-  
 Dono: Rigenerazione lenta: il troll torna in vita un certo periodo di tempo dopo la morte (minuti, ore, giorni), per poi tornare in piena salute. Gli arti si rigenerano, ecc.  
@@ -336,21 +538,27 @@ Guasto (opzionale): si trasforma permanentemente in pietra alla luce del sole.
 Comportamento: Grosso. Stupido. Forte. Afferra le cose, raccoglile e distruggile contro altre cose. Fa' la stessa cosa alle persone.  
 
 #### Ragno gigante
-Valutazione della minaccia: Discreta  
+Ambientazione: Fantasy medievale.  
+Fisico: Ottimo.  
 Dono: Veleno paralizzante nelle zanne  
 Dono: Filare la tela    
 Comportamento: crea ragnatele appiccicose per catturare le prede, inietta un veleno paralitico con le zanne, quindi avvolgi la preda in un bozzolo prima di risucchiarne i liquidi.  
 
 #### Brigante  
-Valutazione della minaccia: Mediocre  
+Ambientazione: Fantasy medievale.  
+Combattimento: Buono.  
 Comportamento: Saccheggia, razzia e depreda. Obbedisci al tuo capo. Attacca gli innocenti. Prendi con la forza.  
 
 #### Capo dei briganti  
-Valutazione della minaccia: Buona  
+Ambientazione: Fantasy medievale.  
+Combattimento: Ottimo.  
+Capacità di comando: Ottima.  
 Comportamento: comanda i tuoi seguaci. Premia l'obbedienza. Distruggi qualsiasi sfida alla tua autorità. Vantati incautamente.  
 
 #### Mago del fuoco piromane  
-Valutazione della minaccia: Buona  
+Ambientazione: Fantasy medievale.  
+Combattimento magico: Ottimo.   
+Combattimento corpo a corpo: Mediocre.  
 Dono: Incantesimi. Incantesimi conosciuti: Palla di fuoco, Lanciafiamme.  
 Dono: Immunità alle proprie fiamme.  
 -O-  
@@ -358,94 +566,47 @@ Dono: Immunità a tutte le fiamme
 Comportamento: brucia tutte le cose! Se qualcuno cerca di fermarti, brucia anche loro!  
 
 #### Monaco Psionico  
-Valutazione della minaccia: Superba  
+Ambientazione: Space Opera.  
+Combattimento: Ottimo.  
 Dono: Psionica. Abilità psioniche: Telepatia/empatia, Telecinesi, Aumento Fisico (salti acrobatici, movimenti veloci), Suggestione.  
 Dono: Spada al plasma  
 Comportamento: Difendi i deboli. Distruggi i malvagi. Sii in pace in tutte le tue azioni.  
 
 #### Monaco Psionico Caduto  
-Valutazione della minaccia: Superba  
+Ambientazione: Space Opera.  
+Combattimento: Ottimo.  
 Dono: Psionica. Abilità psioniche: Telepatia/empatia, Telecinesi, Aumento Fisico (salti acrobatici, movimenti veloci), Fulmine.  
 Dono: Spada al plasma  
 Comportamento: lascia che la tua rabbia e il tuo odio fluiscano attraverso di te. Schiaccia i tuoi nemici. Non mostrare pietà.  
 
-#### Scagnozzo (guardie, assaltatori, servitori, cultisti, ecc.)  
-Valutazione della minaccia: Mediocre  
+#### Scagnozzo (guardie, assaltatori, servitori, cultisti, ecc.)
+Ambientazione: Qualsiasi ambientazione d'azione.  
+Combattimento: Mediocre.  
 Comportamento: Infastidisci gli eroi, muore in massa.  
 
-### Esempio di combattimento
+## "Si, ma":
+Un tiro risolve la domanda "posso fare questa cosa?". A volte, però, il GM può voler rendere la risposta alla domanda parte della trama in corso, richiedendo un tempo più lungo per risolverla rispetto a un semplice tiro di 4dF. In questo caso, il GM indicherà al PG quali complicazioni si frappongono alla realizzazione del suo obiettivo. Se il PG riesce a superare le complicazioni, ottiene il risultato desiderato.
 
-GM: Il cultista agita minacciosamente il suo bastone sopra l'altare, ma la minaccia più immediata sono i suoi due amichetti cavalcatori di warg che si stanno avvicinando rapidamente a te. I goblin hanno perfide lame ricurve e reclamano il tuo sangue. Come reagisci alla loro carica?  
-PG: Ho lanciato un incantesimo Lampo per accecare il primo cavalcatore.  
-GM: Qual è la tua abilità di incantatore?  
-PG: Mediocre.  
-GM: Dirò che lanciare Lampo in questo contesto richiede un'abilità magica Mediocre, quindi devi solo tirare 0 o più sui dadi Fudge.  
-PG: \*tira 4dF\*  
-PG: Ahi. -1.  
-GM: Scarso risultato. L'incantesimo si ritorce contro e ti esplode in faccia, accecandoti temporaneamente. Cosa fai?  
-PG: Ok, so che i wargs stanno arrivando, quindi cerco di saltare via.  
-GM: Prova di atletica.  
-PG: Mediocre più tiro è uguale a...  
-PG: \*tira 4dF\*  
-PG: Ahi! -3!  
-\*GM ride\*  
-PG: Questo è... un livello sotto Terribile! Ho fatto così male nel mio tiro che non c'è nemmeno una classificazione!  
-GM: Accecato, corri dritto contro il muro. Usando il tuo momento di disorientamento, i goblin ti attaccano dal dorso dei warg con le loro spade. Senti le lame che ti tagliano attraverso la tua armatura. Segna un punto ferita.  
-PG: Questo mi porta a 3 PF. Maledizione.  
-GM: Va bene, la cecità temporanea è svanita, ma sei ancora un po' disorientato. Sei a -1 per il tuo prossimo tiro. I cavalca-warg si avvicinano per un altro passaggio. Cosa fai?  
-PG: Salgo sul warg più vicino per buttare giù il goblin dalla sella.  
-GM: Ciò richiederà un tiro di Buona Destrezza, seguito da una prova di Forza contrapposta per far cadere il goblin.  
-PG: \*tira\*  
-PG: Merda, -1.  
-GM: Combinato con il disorientamento -1 e la tua mediocre destrezza, hai totalizzato Terribile. Ce la fai a raggiungere il warg, ma ad un costo. A causa del tuo annaspare, il goblin ha un tiro libero contro di te. Il goblin fa un altro punto di danno. Ok, ora per la prova di Forza contrapposta. Il goblin ha Forza Mediocre.  
-PG: Ho Forza Buona, quindi dovrebbe funzionare.  
-\*tira 4dF\*  
-PG: -1, quindi il mio Discreto batte Mediocre del goblin.  
-GM: E il goblin va giù!  
+Questa è un'espansione della mossa del GM "Comunica i requisiti o le conseguenze e chiedi".
 
-### "Si ma":
-Per le volte in cui il GM vuole rendere le cose più interessanti di un semplice risultato "sì" o "no", il GM può consentire al giocatore di avere successo a un costo. Questo può essere fatto invece di un tiro a discrezione del GM. Potrebbe anche essere il risultato di un tiro che il GM ha ritenuto non idoneo per un successo netto o un fallimento netto.
+Le situazioni in cui "Sì, ma" potrebbe essere appropriato includono, ma non sono limitate a: creare equipaggiamento, fornire cure mediche, creare un nuovo incantesimo o effetto magico e migliorare i tratti.
 
-Questa è un'espansione della mossa del GM "Descrivi i requisiti e chiedi" (vedi Appendice A: Mosse del GM). Il giocatore dichiara cosa vuole ottenere il suo personaggio e il GM sceglie fino a quattro complicazioni. Il GM deve comunicare al giocatore le complicazioni prima che il PG agisca.
+### Complicazioni del esempio:
+- Richiederà risorse rare o costose.
+- Richiederà l'assistenza di qualcun altro
+- Richiederà di seguire una procedura specifica
+- Voi e i vostri alleati rischierete di subire pericoli o attenzioni indesiderate
+- Mentre ci lavorate, una situazione specifica peggiorerà altrove.
 
-Le situazioni in cui "Sì, ma" sarebbe appropriato includono: creazione di attrezzature, cure mediche, creazione di un nuovo incantesimo o effetto magico, sviluppo di abilità.
+Il GM può consentire al giocatore di scegliere tra diverse combinazioni di complicazioni. ("O ci vorranno un sacco di soldi e diverse settimane, o puoi ingoiare il tuo orgoglio e chiedere aiuto a Jorgen". "Mai!")
 
-#### Complicazioni di esempio:
-* Ci vorranno giorni/settimane/mesi
-* Per prima cosa devi ____
-* Avrai bisogno dell'aiuto di ____
-* Richiederà un sacco di soldi
-* Il meglio che puoi fare è una versione minore, inaffidabile e limitata
-* Tu e i tuoi alleati rischierete il pericolo da ____
-* Attirerai attenzioni indesiderate da ____
-* Dovrai smontare/disincantare ____ per farlo
-* Il prodotto finito avrà i seguenti effetti collaterali: ____
-
-Il GM può consentire al giocatore di scegliere tra diverse combinazioni di complicazioni. ("O ci vorranno molti soldi e diverse settimane, oppure puoi ingoiare il tuo orgoglio e chiedere aiuto a Jorgen." "Mai!")
-
-### Tratti oltre Superbo
-
-Sebbene gli effetti dei tiri generalmente non superino Superbo, a volte la difficoltà di un tiro è più difficile di Superbo ma è comunque tecnicamente possibile. Per questi tiri c'è il livello Sovraumano.
-
-* Sovrumano Superbo 
-* Sovraumano Ottimo 
-* Sovraumano Buono
-* Sovraumano Discreto
-* Superbo
-* Ottimo
-* Buono
-* Discreto
-* Mediocre
-* Scarso
-* Terribile
-
-### Conto alla rovescia
+## Conto alla rovescia
 
 Ogni volta che qualcosa può accadere in futuro ma non è ancora successo, il GM può generare un conto alla rovescia. Un conto alla rovescia è solo una serie di caselle che vengono spuntate quando vengono soddisfatti determinati criteri. Una volta che tutte le caselle sono state spuntate, la cosa accade.
 
 I conti alla rovescia sono incredibilmente versatili. Qualsiasi tracciamento del giocatore (salute, mana, sanità mentale, ecc.) tecnicamente conta come un conto alla rovescia. I conti alla rovescia possono anche essere usati come Fronti del Mondo di Apocalisse/Dungeon, come sfide di abilità con condizioni di successo e/o fallimento e come un visibile "ticchettio d'orologio" per spronare i giocatori all'azione.
 
-#### Esempi di conto alla rovescia:  
+#### Conti alla rovescia di esempio:  
 
 Conto alla rovescia frontale  
 Innesco: i giocatori non agiscono contro la minaccia del coboldo.  
@@ -473,65 +634,19 @@ Innesco: fallisci i relativi test di abilità
 [\_] [\_] [\_] [\_]  
 Risultato: cacciato dal castello
 
-## Appendice A: mosse del GM  
+# Appendice A: Set di tratti di esempio
+Fisico, Mente, Anima  
+Forza, Destrezza, Costituzione, Saggezza, Intelligenza, Carisma  
+Fisico, Mentale, Sociale  
+Attento, Furbo, Appariscente, Energico, Veloce, Subdolo  
+Lotta, Agilità, Forza, Resistenza, Ragione, Intuizione, Psiche  
+Terra, Aria, Fuoco, Acqua, Vuoto  
+Forza, Velocità, Intelletto  
+Fisico, Coordinazione, Senso, Conoscenza, Fascino, Comando  
+Cervello, Audacia, Meccanica, Follia, Violenza  
+Agilità, Astuzia, Spirito, Forza, Vigore  
 
-In quanto GM, il tuo compito è mantenere i giocatori impegnati. Le mosse GM sono il modo in cui lo fai. Una mossa del GM è un'azione scelta da un elenco di cose che possono forzare una reazione da parte dei giocatori. Le mosse GM sono praticamente le uniche cose che dovresti fare come GM in Fudge Lite. Le mosse sono abbastanza ampie, tuttavia, che potrebbe non essere così diverso da come normalmente conduci il gioco.
-
-Ci sono tre volte in cui dovresti fare una mossa GM: ogni volta che un giocatore si rivolge a te per vedere cosa succede, ogni volta che un giocatore fallisce una prova di abilità e ogni volta che un giocatore ti offre un'opportunità su un vassoio d'oro.
-
-### Elenco delle mosse GM
-
-* Usa il comportamento predefinito di un PNG  
-* Rivela una verità sgradita  
-* Annuncia una sfortuna futura  
-* Infliggi danni  
-* Consuma le loro risorse  
-* Rivolta la loro azione su di loro  
-* Sposta i personaggi (separali, riuniscili, introduci nuovi personaggi)  
-* Dai un'opportunità che si adatta a uno dei loro tratti  
-* Mostra un lato negativo di uno dei loro tratti  
-* Offri un'opportunità, con o senza costi  
-* Metti un personaggio all'angolo  
-* Spiega loro i requisiti o le conseguenze e chiedi  
-* Fai un conto alla rovescia  
-* Avanza un conto alla rovescia  
-
-Questo elenco può essere modificato dal GM per adattarsi al tono del gioco che sta eseguendo. Ad esempio, "Rivelare una verità non gradita" è piuttosto ampio. Il GM potrebbe aggiungere una mossa GM personalizzata per una specifica verità sgradita.
-
-Per fare un confronto, ecco una serie di mosse GM che ho scritto per un'ambientazione di vita quotidiana a basso conflitto e senza combattimenti che ho condotto per mia madre:
-
-* Offri un'opportunità, con o senza un costo  
-* Mostra un conflitto  
-* Assegna a qualcuno una priorità contrastante  
-* Incontra un personaggio  
-* Che il protagonista abbia successo, con o senza un costo  
-
-Condividi ...  
-
-* ...la storia  
-* ...il problema  
-* ...i desideri  
-* ...gli obiettivi   
-
-### Fare mosse
-
-Quando viene attivata una mossa GM, guarda l'elenco delle mosse GM e scegline una che potrebbe essere rilevante per la situazione attuale. Quindi, fallo accadere ai PG.
-
-Non pronunciare mai il nome della mossa. Rendilo qualcosa che accade davvero nel mondo immaginario. Non dire: "Rivelo una verità sgradita". Di': "Si scopre che il ponte non era stabile come pensavi! Senti un forte crepitio dalla pietra sotto i tuoi piedi".
-
-Dopo ogni mossa chiedi a un giocatore o ai giocatori: "Cosa fai?"
-
-### Non pianificare la storia.
-
-Per usare correttamente le mosse GM non dovresti pianificare in anticipo come sarà la storia. Non puoi aspettarti che i PG, ad esempio, affrontino il mostro, salvino la principessa e la riportino dal re per la loro ricompensa. Pianifica in anticipo l'ambientazione, se vuoi, con il mostro, la principessa e il re, e puoi abbozzare liberamente le posizioni generali (lasciando molto spazio all'improvvisazione), ma lascia che le mosse del GM portino la storia ovunque essa vada.
-
-Forse la principessa è segretamente la migliore amica del mostro. Forse il re non ha intenzione di lasciare in vita i PG o la principessa, e ora devono affrontare un esercito per ucciderli. Forse l'anima della principessa è rimasta intrappolata nella tana del mostro e ora i PG hanno bisogno di trovare un mago che la aiuti a rianimarla. Gioca per scoprire dove va la storia.
-
-### Per maggiori informazioni:
-
-Per ulteriori informazioni sulle mosse GM e sul flusso del combattimento, consultare la guida di Dungeon World creata dai fan, collegata al [sito web di Dungeon World](https://dungeon-world.com/downloads/). Le regole sono leggermente diverse, ma dovrebbero aiutarti a farti un'idea generale. Per contesto, un risultato di Dungeon World di 7-9 equivale all'incirca a riuscire entro un punto da una prova di abilità Fudge. Quindi, se la difficoltà della prova di abilità fosse Buona, un risultato 7-9 sarebbe l'equivalente di un risultato compreso tra Discreto e Ottimo.
-
-## Appendice B: chiavi di esempio
+# Appendice B: chiavi di esempio
 
 ### Chiavi di The Shadow of Yesterday:
 
