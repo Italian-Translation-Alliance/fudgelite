@@ -1,7 +1,7 @@
 # Fudge Lite 
 Versione 2.6.2  
 [http://www.fudgelite.com](http://www.fudgelite.com)  
-Traduzione di Roberto Bisceglie
+Traduzione di Roberto Bisceglie (v.0.9)
 
 ## Scala Fudge: 
 * Superbo
