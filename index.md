@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Fudge Lite 
 Versione 2.6.2  
 [http://www.fudgelite.com](http://www.fudgelite.com)  
