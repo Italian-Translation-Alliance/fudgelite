@@ -1,8 +1,8 @@
 # Site settings
 title: Fudgelite
-tag_text: Good Clean Read
+tag_text:
 description: 
-url: "http://127.0.0.1:4000"
+url: "fudgelite.zeruhur.space"
 baseurl: ""
 
 font-awesome-include: false # make this false if you don't need font-awesome
