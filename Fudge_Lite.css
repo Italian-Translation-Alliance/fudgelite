@@ -1,0 +1,22 @@
+body{
+    font-family:Helvetica,Arial,sans-serif;
+    margin:40px auto;
+    max-width:700px;
+    line-height:1.6;
+    font-size:18px;
+    padding:0 10px;
+    /*background:#00001c;
+    color:#dddddd;*/
+  }
+  
+  h1,h2,h3,h4,h5{
+    margin-bottom:2;
+    }
+    
+  p{
+    margin-top:2
+    }
+  
+  a{
+    /*color:#ddd*/
+    }
